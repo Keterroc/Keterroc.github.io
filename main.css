@@ -9,3 +9,9 @@
 .nav li {
   display: inline;
 }
+.jumbotron {
+  background-image:url('http://www.teamliquid.net/staff/Kiett/lol/wombocombo.gif');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
